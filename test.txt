@@ -1,0 +1,1 @@
+.git folder is inititalised by running git init command.github handled all of it as part of its create new repo command and its a hidden folder used to track all change and in linux any folder using the a dot(.) before its name is a hidden folder e.g .git
